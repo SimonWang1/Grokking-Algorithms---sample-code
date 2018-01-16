@@ -1,3 +1,4 @@
+# 二分法查找
 def binary_search(list, item):
     # 数组最大最小值下标
     low = 0
